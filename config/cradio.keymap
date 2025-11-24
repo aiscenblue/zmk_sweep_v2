@@ -12,6 +12,7 @@
 #define ZMK_POINTING_DEFAULT_MOVE_VAL 1200  // default: 600
 #define ZMK_POINTING_DEFAULT_SCRL_VAL 20    // default: 10
 
+
 #define DEFAULT        0
 #define CODE           1
 #define MODS           2
